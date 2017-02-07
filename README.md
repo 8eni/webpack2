@@ -12,7 +12,7 @@ git clone https://github.com/8eni/webpack2.git
 
 ### Installing
 
-Make sure you have node and npm, then install dependencies...
+Make sure you have node and npm installed, then to install dependencies run the following commands...
 
 ```
 npm install
